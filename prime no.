@@ -1,0 +1,12 @@
+def sieve_of_eratosthenes
+	if prime=[TRUE for i in range(n+1)]
+	p = 2
+		while(p*p<=n)
+			for(i in range (p*p,n+1,p)
+			prime[p]=FALSE
+	p = +1
+		for i in range (2,n+1)
+			print p
+n=30
+print p
+sieve_of_eratosthenes(n)
